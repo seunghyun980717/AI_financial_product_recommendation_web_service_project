@@ -21,10 +21,10 @@ web project
 - 다른 사용자와 금융 이야기를 나눌 수 있는 커뮤니티 게시판
 
 ### 🦾 팀 소개 
-| 김상훈 | 김지연 |
+| 정승현 | 서기현 |
 | ------ | ------ |
 | <a href="https://github.com/andongmin94"><img src="https://avatars.githubusercontent.com/u/110483588?v=4" alt="andongmin94" width="100" height="100"></a> | <a href="https://github.com/jiyeon2536"><img src="https://avatars.githubusercontent.com/u/125720796?v=4" alt="jiyeon2536" width="100" height="100"></a> |
-| 팀장, Backend | 팀원, Frontend |
+| 서기현, Backend | 정승현, Frontend |
 
 ### 🦿 성과
 - 삼성청년SW아카데미 1학기 관통 프로젝트 우수상 (23.11.28)
